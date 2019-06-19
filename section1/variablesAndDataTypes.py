@@ -1,7 +1,3 @@
-a = 10
-
-print(a)
-
 #create  a variable called intVal and asign it an integer value
 intVal = 3
 
