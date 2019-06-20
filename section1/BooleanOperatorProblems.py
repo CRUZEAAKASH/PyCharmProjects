@@ -29,3 +29,4 @@ var2 = 4 * 2 != 6 and not 7 % 6 == 1
 
 print(not 3 > 1 and 5 != 2 and 6 == 6)
 print(4 * 2 != 6 and  7 % 6 == 1)
+print("hello")
