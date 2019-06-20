@@ -25,10 +25,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StringAnsEcaoeSequence.py">
+        <entry file="file://$PROJECT_DIR$/StringAnsEscapeSequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BooleanOperatorProblems.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="205">
-              <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -51,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlowControlAndComparator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
@@ -78,6 +87,8 @@
         <option value="$PROJECT_DIR$/String Methods.py" />
         <option value="$PROJECT_DIR$/PrintProblems.py" />
         <option value="$PROJECT_DIR$/FlowControlAndComparator.py" />
+        <option value="$PROJECT_DIR$/StringAnsEscapeSequence.py" />
+        <option value="$PROJECT_DIR$/BooleanOperatorProblems.py" />
       </list>
     </option>
   </component>
@@ -118,7 +129,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FlowControlAndComparator">
+  <component name="RunManager" selected="Python.BooleanOperatorProblems">
+    <configuration name="BooleanOperatorProblems" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="section1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BooleanOperatorProblems.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="FlowControlAndComparator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="section1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringAnsEcaoeSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringAnsEscapeSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="section1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,28 +226,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\aakas\learning\Python\PycharmProjects\section1\StringAnsEscapeSequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="commentsAndMathOperators" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="section1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/commentsAndMathOperators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringAnsEscapeSequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BooleanOperatorProblems" />
+        <item itemvalue="Python.StringAnsEscapeSequence" />
         <item itemvalue="Python.FlowControlAndComparator" />
         <item itemvalue="Python.PrintProblems" />
         <item itemvalue="Python.String Methods" />
-        <item itemvalue="Python.StringAnsEcaoeSequence" />
-        <item itemvalue="Python.commentsAndMathOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +263,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0795107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13149847" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -281,13 +292,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StringAnsEcaoeSequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/String Methods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -306,6 +310,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringAnsEscapeSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BooleanOperatorProblems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
         </state>
       </provider>
     </entry>

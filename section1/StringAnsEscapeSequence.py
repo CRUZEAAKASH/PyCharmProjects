@@ -42,3 +42,5 @@ print(var2)
 print(var3)
 print(var4)
 print(var5)
+
+print(False or True)
