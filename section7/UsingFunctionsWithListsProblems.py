@@ -58,3 +58,5 @@ print(prod(intList))
 print(conc(stringList))
 
 methooooddss(intList)
+
+print(intList, stringList)
