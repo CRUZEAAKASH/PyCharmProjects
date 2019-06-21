@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a287416d-bff0-45d6-afa2-90ad5b08c00a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/section8/WhileLoopsProblems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section8/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section8/MoreForLoopsProblems.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/section5/FunctionsProblems.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section5/ImportingModulesProblems.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -46,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section6/DictionariesProblems.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+            <state relative-caret-position="192">
+              <caret line="38" selection-start-line="38" selection-end-line="39" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -75,11 +69,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section8/WhileLoopsProblems.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="328">
               <caret line="45" column="56" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/section8/MoreForLoopsProblems.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -104,6 +107,7 @@
         <option value="$PROJECT_DIR$/section7/UsingAnEntireListWithinAFunctionProblems.py" />
         <option value="$PROJECT_DIR$/section8.py" />
         <option value="$PROJECT_DIR$/section8/WhileLoopsProblems.py" />
+        <option value="$PROJECT_DIR$/section8/MoreForLoopsProblems.py" />
       </list>
     </option>
   </component>
@@ -170,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.WhileLoopsProblems">
+  <component name="RunManager" selected="Python.MoreForLoopsProblems">
     <configuration name="DictionariesProblems" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,6 +188,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/section6/DictionariesProblems.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MoreForLoopsProblems" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/section8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/section8/MoreForLoopsProblems.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,6 +282,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MoreForLoopsProblems" />
         <item itemvalue="Python.WhileLoopsProblems" />
         <item itemvalue="Python.UsingAnEntireListWithinAFunctionProblems" />
         <item itemvalue="Python.UsingFunctionsWithListsProblems" />
@@ -348,13 +374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section6/DictionariesProblems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/section7/UsingFunctionsWithListsProblems.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -376,6 +395,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="45" column="56" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section6/DictionariesProblems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="38" selection-start-line="38" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section8/MoreForLoopsProblems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
         </state>
       </provider>
     </entry>
