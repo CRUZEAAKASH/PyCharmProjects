@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a287416d-bff0-45d6-afa2-90ad5b08c00a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/section8/MoreForLoopsProblems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section9/ListComprehensionsProblems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section9/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/section5/ImportingModulesProblems.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section5/BuilInFunctionsProblems.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -78,11 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section8/MoreForLoopsProblems.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
+            <state relative-caret-position="277">
+              <caret line="88" column="23" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/section9/ListComprehensionsProblems.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -108,6 +113,7 @@
         <option value="$PROJECT_DIR$/section8.py" />
         <option value="$PROJECT_DIR$/section8/WhileLoopsProblems.py" />
         <option value="$PROJECT_DIR$/section8/MoreForLoopsProblems.py" />
+        <option value="$PROJECT_DIR$/section9/ListComprehensionsProblems.py" />
       </list>
     </option>
   </component>
@@ -140,7 +146,7 @@
             <path>
               <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="section8" type="462c0819:PsiDirectoryNode" />
+              <item name="section9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,8 +180,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MoreForLoopsProblems">
-    <configuration name="DictionariesProblems" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ListComprehensionsProblems">
+    <configuration name="ListComprehensionsProblems" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/section6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/section9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/section6/DictionariesProblems.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/section9/ListComprehensionsProblems.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ListComprehensionsProblems" />
         <item itemvalue="Python.MoreForLoopsProblems" />
         <item itemvalue="Python.WhileLoopsProblems" />
         <item itemvalue="Python.UsingAnEntireListWithinAFunctionProblems" />
         <item itemvalue="Python.UsingFunctionsWithListsProblems" />
-        <item itemvalue="Python.DictionariesProblems" />
       </list>
     </recent_temporary>
   </component>
@@ -407,8 +413,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/section8/MoreForLoopsProblems.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
+        <state relative-caret-position="277">
+          <caret line="88" column="23" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section9/ListComprehensionsProblems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
         </state>
       </provider>
     </entry>
