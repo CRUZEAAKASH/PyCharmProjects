@@ -1,0 +1,4 @@
+this is text written from pycharm
+this is written from 
+
+notepad
