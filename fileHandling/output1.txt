@@ -1,0 +1,2 @@
+creating file and writing data in that newly created file
+Entering the second line
