@@ -1,4 +1,4 @@
-class students:
+class Students:
     company = "amdocs"
 
     def __init__(self, name, age):
@@ -13,7 +13,16 @@ class students:
         self.name = input("Enter Name")
         self.age = input("Enter Age")
 
-John = students("blank", 0)
+class scienceStudents(Students):
+    def __init__(self,college):
+        self.college = college
+        print("Printing within the Init method of scienece student {}".format(self.college))
+
+    def science(self):
+        print("I am a sience student")
+
+John = scienceStudents("KNIT")
+John.science()
 John.setData()
 John.getData()
 
