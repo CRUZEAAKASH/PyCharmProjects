@@ -2,9 +2,15 @@ import re
 
 pattern = r"eggs"
 
-str = "wqeggseggseggseggs"
+str1 = "eggseggseggseggs"
+str2 = "baconeggseggsbacon"
 
-if(re.match(pattern, str)):
-    print("Match found")
+if(re.match(pattern, str1)):
+    print("first pattern matched")
 else:
-    print("No Match found")
+    print("first pattern didn't match")
+
+if(re.match(pattern, str2)):
+    print("second pattern matched")
+else:
+    print("second pattern didn't match")
