@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f1cbc65-780d-45b1-8e8c-d19f5fb7bfb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/section15_Tkinter/HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section15_Tkinter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section15_Tkinter/LearningFrame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/Character class.py" beforeDir="false" afterPath="$PROJECT_DIR$/section14_RegularExpressions/Character class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/DollarAndCaret.py" beforeDir="false" afterPath="$PROJECT_DIR$/section14_RegularExpressions/DollarAndCaret.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/DotMatacharacter.py" beforeDir="false" afterPath="$PROJECT_DIR$/section14_RegularExpressions/DotMatacharacter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/FIrstOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/section14_RegularExpressions/FIrstOne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/FindAndReplace.py" beforeDir="false" afterPath="$PROJECT_DIR$/section14_RegularExpressions/FindAndReplace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/Group.py" beforeDir="false" afterPath="$PROJECT_DIR$/section14_RegularExpressions/Group.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/section14_RegularExpressions/Search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/StarMatachracter.py" beforeDir="false" afterPath="$PROJECT_DIR$/section14_RegularExpressions/StarMatachracter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/section14_RegularExpressions/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/findAll.py" beforeDir="false" afterPath="$PROJECT_DIR$/section14_RegularExpressions/findAll.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/section14_RegularExpressions/FIrstOne.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section14_RegularExpressions/Search.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section15_Tkinter/HelloWorld.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="68">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/section15_Tkinter/LearningFrame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -179,6 +168,7 @@
         <option value="$PROJECT_DIR$/RegularExpressions/StarMatachracter.py" />
         <option value="$PROJECT_DIR$/RegularExpressions/Group.py" />
         <option value="$PROJECT_DIR$/section15_Tkinter/HelloWorld.py" />
+        <option value="$PROJECT_DIR$/section15_Tkinter/LearningFrame.py" />
       </list>
     </option>
   </component>
@@ -241,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.HelloWorld">
+  <component name="RunManager" selected="Python.LearningFrame">
     <configuration name="Character class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,27 +245,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RegularExpressions/Character class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DollarAndCaret" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RegularExpressions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RegularExpressions/DollarAndCaret.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,6 +295,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LearningFrame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/section15_Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/section15_Tkinter/LearningFrame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="StarMatachracter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -349,11 +339,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LearningFrame" />
         <item itemvalue="Python.HelloWorld" />
         <item itemvalue="Python.Group" />
         <item itemvalue="Python.StarMatachracter" />
         <item itemvalue="Python.Character class" />
-        <item itemvalue="Python.DollarAndCaret" />
       </list>
     </recent_temporary>
   </component>
@@ -394,13 +384,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/section6_Lists_tuples_ForLoops_Dictionaries/DictionariesProblems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" selection-start-line="38" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/section7_ListsAndFunctions/UsingFunctionsWithListsProblems.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
@@ -742,8 +725,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/section15_Tkinter/HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section15_Tkinter/LearningFrame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
