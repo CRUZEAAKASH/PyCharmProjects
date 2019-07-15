@@ -14,5 +14,5 @@ insertButton.pack(side=LEFT, padx=2, pady=2)
 printButton = Button(toolbar, text="print", command=function1)
 printButton.pack(side=LEFT, padx=2, pady=2)
 
-toolbar.pack(side=LEFT)
+toolbar.pack(side=LEFT, fill=X)
 window.mainloop()
