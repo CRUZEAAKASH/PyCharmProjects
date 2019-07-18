@@ -234,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Series_ReIndexing">
+  <component name="RunManager" selected="Python.DataFrame_ReIndexing">
     <configuration name="DataFramTranspose" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DefiningDataFrameColumnSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DataFrame_ReIndexing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,7 +289,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/section16_DataAnalysis/DefiningDataFrameColumnSequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/section16_DataAnalysis/DataFrame_ReIndexing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DataFrame_ReIndexing" />
         <item itemvalue="Python.Series_ReIndexing" />
         <item itemvalue="Python.DataFramTranspose" />
         <item itemvalue="Python.DataFrameManipulation" />
         <item itemvalue="Python.RetrievingSeriesFromDataFrame" />
-        <item itemvalue="Python.DefiningDataFrameColumnSequence" />
       </list>
     </recent_temporary>
   </component>

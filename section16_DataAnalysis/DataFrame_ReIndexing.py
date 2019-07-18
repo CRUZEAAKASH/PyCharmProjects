@@ -5,3 +5,7 @@ data = {'Name': ['John', 'Tom', 'Rob'],
         'Salary': [2500, 3500, 4500]}
 
 frame = DataFrame(data)
+print(frame)
+
+frame = frame.reindex([2, 1, 0])
+print(frame)
