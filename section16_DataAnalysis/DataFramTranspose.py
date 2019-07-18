@@ -6,12 +6,7 @@ data = {'Name': ['John', 'Tom', 'Rob'],
 
 frame = DataFrame(data)
 
-# Adding same values
-frame['Profile'] = 'Doctor'
 print(frame)
 
-# Adding different values
-list1 = ['Mumbai', 'Pune', 'Bangalore']
-
-frame['City'] = list1
+frame = frame.T
 print(frame)
