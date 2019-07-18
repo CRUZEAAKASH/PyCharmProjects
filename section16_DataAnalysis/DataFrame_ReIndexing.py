@@ -7,5 +7,10 @@ data = {'Name': ['John', 'Tom', 'Rob'],
 frame = DataFrame(data)
 print(frame)
 
+# reindex rows
 frame = frame.reindex([2, 1, 0])
+print(frame)
+
+# reindex columns
+frame = frame.reindex(columns=['Salary', 'Name', 'Age'])
 print(frame)
