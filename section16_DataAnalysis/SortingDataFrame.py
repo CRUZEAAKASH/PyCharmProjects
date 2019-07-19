@@ -21,5 +21,5 @@ frame4 = frame.sort_values(['Salary'])
 print(frame4)
 
 # Sorting on the basis of values column wise descending
-frame5 = frame.sort_values(['Salary'], ascending=False)
+frame5 = frame.sort_values(['Salary'], ascending=False, ind)
 print(frame5)
